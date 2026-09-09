@@ -43,7 +43,10 @@
 
 - **[vidora](https://github.com/ITSS-Academy/vidora)** – TypeScript
 - **[Slumber](https://github.com/Chuki1234/Slumber)** – Dart
-- **Thiên Long Bát Bộ**
+- **[Thiên Long Bát Bộ](https://github.com/akademy-dev/ThienLongBatBo)**
+- **[formcv.app](https://github.com/hoangcuongquoc/formcv.app)** – TypeScript
+- **[omnisearch](https://github.com/hoangcuongquoc/omnisearch)** – TypeScript
+- **[calender246](https://github.com/hoangcuongquoc/calender246)** – TypeScript
 
 ---
 
