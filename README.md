@@ -12,6 +12,7 @@
 - 🌱 Đang học và làm việc với **TypeScript**, **Flutter/Dart**, **Python**, **C++**
 - 🛠️ Thích xây dựng các ứng dụng web & mobile
 - 📍 Sống tại Đà Lạt, Việt Nam
+- 🎮 Game yêu thích: **Thiên Long Bát Bộ**
 - ⚡ Một vài dự án nổi bật: **vidora**, **Slumber**, **calenderwebapp246**
 
 ### 🧰 Tech Stack
