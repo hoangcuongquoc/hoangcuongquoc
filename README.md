@@ -12,7 +12,7 @@
 - 🌱 Đang học và làm việc với **TypeScript**, **Flutter/Dart**, **Python**, **C++**
 - 🛠️ Thích xây dựng các ứng dụng web & mobile
 - 📍 Sống tại Đà Lạt, Việt Nam
-- 🎮 Game yêu thích: **Thiên Long Bát Bộ**
+- 👨‍🏫 Từng đảm nhận vai trò **Mentor** cho một khoá học Web, có khả năng truyền đạt kiến thức và hướng dẫn học viên một cách dễ hiểu, tận tâm
 - ⚡ Một vài dự án nổi bật: **vidora**, **Slumber**, **calenderwebapp246**
 
 ### 🧰 Tech Stack
@@ -43,6 +43,7 @@
 
 - **[vidora](https://github.com/ITSS-Academy/vidora)** – TypeScript
 - **[Slumber](https://github.com/Chuki1234/Slumber)** – Dart
+- **Thiên Long Bát Bộ**
 
 ---
 
