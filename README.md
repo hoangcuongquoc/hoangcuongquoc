@@ -36,7 +36,7 @@
 - [formcv.app](https://github.com/hoangcuongquoc) – TypeScript
 - [omnisearch](https://github.com/hoangcuongquoc) – TypeScript
 - [calender246](https://github.com/hoangcuongquoc) – TypeScript
-- 📱 **appmobi_camera_bunni_ios** – Ứng dụng iOS tích hợp công nghệ AppMobi và Camera Bunni
+- 📱 **appmobi_camera_bunni_ios[https://github.com/hoangcuongquoc/appmobi_camera_bunni_ios.git]** – Ứng dụng iOS tích hợp công nghệ AppMobi và Camera Bunni
 
 ---
 
