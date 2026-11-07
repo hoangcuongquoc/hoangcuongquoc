@@ -6,7 +6,6 @@
 
 - 🌱 Đang học và làm việc với **TypeScript**, **Flutter/Dart**, **Python**, **C++**
 - 🛠️ Thích xây dựng các ứng dụng web & mobile
-- 📍 Sống tại Đà Lạt, Việt Nam
 - 👨‍🏫 Từng đảm nhận vai trò **Mentor** cho một khoá học Web, có khả năng truyền đạt kiến thức và hướng dẫn học viên một cách dễ hiểu, tận tâm
 - ⚡ Một vài dự án nổi bật: *vidora*, *Slumber*, *formcv.app*, *omnisearch*, *calender246*, *appmobi_camera_bunni_ios*
 
