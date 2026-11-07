@@ -35,6 +35,7 @@
 - **[formcv.app](https://github.com/hoangcuongquoc/formcv.app)** – TypeScript
 - **[omnisearch](https://github.com/hoangcuongquoc/omnisearch)** – TypeScript
 - **[calender246](https://github.com/hoangcuongquoc/calender246)** – TypeScript
+- - 📱 Dự án mới: **appmobi_camera_bunni_ios** (Phát triển ứng dụng iOS tích hợp công nghệ AppMobi và Camera Bunni)
 
 ---
 
