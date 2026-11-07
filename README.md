@@ -1,4 +1,4 @@
-<h<div>
+<div align="center">
   <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,45&height=180&section=header&text=Hoàng%20Quốc%20Cường&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descSize=16&descAlignY=58" />
 </div>
 
@@ -6,6 +6,7 @@
 
 - 🌱 Đang học và làm việc với **TypeScript**, **Flutter/Dart**, **Python**, **C++**
 - 🛠️ Thích xây dựng các ứng dụng web & mobile
+- 📍 Sống tại Đà Lạt, Việt Nam
 - 👨‍🏫 Từng đảm nhận vai trò **Mentor** cho một khoá học Web, có khả năng truyền đạt kiến thức và hướng dẫn học viên một cách dễ hiểu, tận tâm
 - ⚡ Một vài dự án nổi bật: *vidora*, *Slumber*, *formcv.app*, *omnisearch*, *calender246*, *appmobi_camera_bunni_ios*
 
@@ -31,12 +32,12 @@
 
 ## 📌 Dự án nổi bật
 
-- [vidora](https://github.com/hoangcuongquoc) – TypeScript
-- [Slumber](https://github.com/hoangcuongquoc) – Dart
-- [formcv.app](https://github.com/hoangcuongquoc) – TypeScript
-- [omnisearch](https://github.com/hoangcuongquoc) – TypeScript
-- [calender246](https://github.com/hoangcuongquoc) – TypeScript
-- 📱 **appmobi_camera_bunni_ios[https://github.com/hoangcuongquoc/appmobi_camera_bunni_ios.git]** – Ứng dụng iOS tích hợp công nghệ AppMobi và Camera Bunni
+- [vidora](https://github.com/hoangcuongquoc/hoangcuongquoc) – TypeScript
+- [Slumber](https://github.com/hoangcuongquoc/hoangcuongquoc) – Dart
+- [formcv.app](https://github.com/hoangcuongquoc/hoangcuongquoc) – TypeScript
+- [omnisearch](https://github.com/hoangcuongquoc/hoangcuongquoc) – TypeScript
+- [calender246](https://github.com/hoangcuongquoc/hoangcuongquoc) – TypeScript
+- [appmobi_camera_bunni_ios](https://github.com/hoangcuongquoc/appmobi_camera_bunni_ios.git) – Ứng dụng iOS tích hợp công nghệ AppMobi và Camera Bunni
 
 ---
 
